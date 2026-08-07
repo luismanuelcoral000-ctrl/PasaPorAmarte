@@ -23,9 +23,11 @@ export const metadata = {
   description:
     "Empresa social dedicada al bienestar integral de las mujeres. Acompañamos procesos de transformación emocional, mental, corporal y espiritual.", 
     verification: {
-    google: "8Wg-_PwDLBwvJFi2IH69_MTKxQZcPze-ToY", 
+    google: "8Wg-_PwDLBwvJFi2IH69_MTKxQZcPze-ToYPECqg_aI", 
   },
 };
+
+
 
 export default function RootLayout({ children }) {
   return (
