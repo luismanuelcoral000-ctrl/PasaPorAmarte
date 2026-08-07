@@ -61,7 +61,7 @@ export default function Footer() {
               <p className="mb-2 text-[0.68rem] uppercase tracking-[0.15em] text-[#B8A98A]">
                 Atención virtual
               </p>
-              <p className="text-[0.92rem]">Desde cualquier lugar del mundo</p>
+              <p className="text-[0.92rem]">Desde cualquier lugar del mundoo</p>
             </div>
           </div>
 
