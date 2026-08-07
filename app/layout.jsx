@@ -21,7 +21,10 @@ const workSans = Work_Sans({
 export const metadata = {
   title: "Pasa Por Amarte · La libertad de elegirte",
   description:
-    "Empresa social dedicada al bienestar integral de las mujeres. Acompañamos procesos de transformación emocional, mental, corporal y espiritual.",
+    "Empresa social dedicada al bienestar integral de las mujeres. Acompañamos procesos de transformación emocional, mental, corporal y espiritual.", 
+    verification: {
+    google: "8Wg-_PwDLBwvJFi2IH",
+  },
 };
 
 export default function RootLayout({ children }) {
